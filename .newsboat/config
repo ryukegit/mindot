@@ -1,0 +1,66 @@
+# News settings
+max-items                   100
+text-width                  79
+browser                     w3m
+prepopulate-query-feeds     yes
+goto-next-feed              no
+feedlist-format             "%4n %9u %t"
+articlelist-title-format    "%N %V - '%T' (%u unread, %t total)"
+
+article-sort-order  desc
+auto-reload         no
+browser             w3m %u
+confirm-exit        no
+max-items           300
+notify-program      notify-send
+save-path           ~/.newsboat/saved_articles
+show-read-articles  yes
+show-read-feeds     yes
+
+highlight all "Linux" color166 black bold
+highlight all "Vice" color133 black bold
+highlight all "twitter" color33 black bold
+#highlight all "News" color34 black bold
+#highlight all "Reddit" color190 black bold
+#highlight all "Alert" color124 black bold
+#highlight all "Tech" color248 black bold
+#download-full-page yes 
+notify-always yes 
+#mark-as-read-on-hover yes 
+always-display-description true 
+
+
+# Note: macro prefix key ( default: , )
+external-url-viewer "w3m"
+macro s set browser "surf"; open-in-browser ; set browser surf
+macro h set browser "mpv"; open-in-browser ; set browser firefox
+macro m set browser "mpv --ytdl-format=22 $1"; open-in-browser ; set browser firefox
+macro l set browser "mpv --ytdl-format=18 $1"; open-in-browser ; set browser firefox
+macro f set browser "firefox"; open-in-browser ; set browser firefox
+macro x set browser "w3m"; open-in-browser ; set browser w3m
+
+# formatting and colorization ------------------------------------------
+ 
+color listnormal          yellow default 
+color listfocus           cyan black
+color listfocus_unread    white black bold
+color listnormal_unread   white default bold
+color info                black red bold
+
+bind-key backspace quit
+
+articlelist-title-format "—[%T]——(%u unread, %t total)——%>——(%U)—"
+datetime-format "%b %d %H:%M"
+feedlist-title-format "—[%u feeds with new articles]——%>——(%N %V)—"
+
+# Related to the highlighted text
+highlight article "^(Feed|Title|Author|Link|Date|Linux):.*" color5 default
+highlight article "^Links:" color74 default underline
+highlight article "\\[[0-9][0-9]*\\]" color72 default bold
+highlight article "\\[image [0-9][0-9]*\\]" color72 default bold
+highlight article "\\[embedded flash: [0-9][0-9]*\\]" color72 default bold
+highlight article ":.*\\(link\\)$" color74 default
+highlight article ":.*\\(image\\)$" color74 default
+highlight article ":.*\\(embedded flash\\)$" color74 default
+highlight articlelist "^ *[0-9]+ *N " color156 default
+highlight feedlist "^ *[0-9]+ *N " color156 default

@@ -1,0 +1,904 @@
+Aug 24 00:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 00:12 : exception: Failed to open '/home/ryuke/.config/mpd/state': No such file or directory
+Aug 24 00:12 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 00:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 00:15 : exception: Failed to open '/home/ryuke/.config/mpd/state': No such file or directory
+Aug 24 00:15 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 00:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 00:19 : client: [0] opened from 127.0.0.1:42238
+Aug 24 00:19 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 11:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 11:12 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 11:15 : client: [1] opened from [::1]:59666
+Aug 24 11:15 : update: added /Chandigarh Mein _ Good Newwz _ Akshay Kumar, Kareena, Diljit, Kiara_ Badshah, Harrdy, Asees, Tanishk-yt4-qlU__iM.mp3
+Aug 24 11:15 : update: added /Skrillex & Rick Ross - Purple Lamborghini [Official Video]-ZkqyIoYAXV8.mp3
+Aug 24 11:15 : update: added /Pitbull ft. Chris Brown - International Love (Official Video)-CdXesX6mYUE.mp3
+Aug 24 11:15 : update: added /OLE OLE 2.0 - Jawaani Jaaneman _ Saif Ali Khan _ Tabu _ Alaya F _ Amit Mishra, Tanishk Bagchi-Cw0Q0z-OFnU.mp3
+Aug 24 11:15 : update: added /'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3
+Aug 24 11:15 : update: added /Mere Naseeb Mein (Remix) - Baby H _ Megha Chatterji-YAQdrO3FCww.mp3
+Aug 24 11:15 : update: added /Nicki Minaj - Super Bass-4JipHEz53sU.mp3
+Aug 24 11:15 : update: added /Chamma Chamma Full Video - Fraud Saiyaan _ Elli AvrRam, Arshad _ Neha Kakkar, Tanishk, Ikka,Romy-ci-NpErqrGM.mp3
+Aug 24 11:15 : update: added /MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3
+Aug 24 11:15 : update: added /Laal Ghaghra - Lyrical _ Good Newwz _ Akshay K, Kareena K_ Manj M,Herbie S, Neha K _Tanishk B-oWknlFu0D9Q.mp3
+Aug 24 11:15 : update: added /Kamal Raja - TROUBLE  [ Official Music Video 2017 ] Prod by Jasz Gill-pF3eE-9euKU.mp3
+Aug 24 11:15 : update: added /LYRICS - Aashiq Banaya Aapne Song _ Hate Story IV _ Urvashi Rautela _ Himesh Reshammiya _ Neha Kakkar-zNMGiMg75zg.mp3
+Aug 24 11:15 : update: added /Yo Yo Honey Singh  - LOCA (Official Video) _ Bhushan Kumar _ New Song 2020 _ T-Series-QeLoW2ySlbc.mp3
+Aug 24 11:15 : update: added /Naagin - Vayu, Aastha Gill, Akasa, Puri _ Official Music Video 2019-Oi8q1zIGph0.mp3
+Aug 24 11:15 : update: added /Muqabla - Street Dancer 3D _A.R. Rahman, Prabhudeva, Varun D, Shraddha K, Tanishk B, Yash ,Parampara-IVMquMDUQZY.mp3
+Aug 24 11:15 : update: added /Ishq Ka Raja - Addy Nagar (Official Video)- Hamsar Hayat - New Hindi Songs 2019-N_dV7--eGFc.mp3
+Aug 24 11:15 : update: added /Chogada With Lyrics  _ Loveyatri _ Aayush Sharma _ Warina Hussain _Darshan Raval, Lijo-DJ Chetas-asYxxtiWUyw.mp3
+Aug 24 11:15 : update: added /Kamariya – Mitron_ Jackky Bhagnani_ Kritika Kamra_ Darshan Raval _ Lijo-DJ Chetas _ Ikka-i0_m90T04uw.mp3
+Aug 24 11:15 : update: added /SKRILLEX - Bangarang feat. Sirah [Official Music Video]-YJVmu6yttiw.mp3
+Aug 24 11:15 : update: added /Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3
+Aug 24 11:15 : update: added /Dilnashin Dilnashin Lyrical Video Song _ Aashiq Banaya Aapne _ Emraan Hashmi,Tanushree Datta,Sonu S-v_L-bAB1kUA.mp3
+Aug 24 11:15 : update: added /Tu Hi Haqeeqat Full Video - Tum Mile_Emraan Hashmi,Soha Ali Khan_Pritam_Javed Ali_Shadab-x3bJeJDgRJQ.mp3
+Aug 24 11:15 : update: added /Daaru Party (Full Song) _ Millind Gaba _ Latest Punjabi Songs 2015 _ Speed Records-Wr2NN4VQ1nI.mp3
+Aug 24 11:15 : update: added /Coca Cola Tu - Tony Kakkar ft. Young Desi _ RE-UPLOADED AFTER 170 MILLION VIEWS-GawFOLcRRe8.mp3
+Aug 24 11:15 : update: added /Garmi Song _ Street Dancer 3D _ Varun D, Nora F, Shraddha K, Badshah, Neha K _ Remo D _ T-Series-q_0uF80IZXM.mp3
+Aug 24 11:15 : update: added /'Sunny Sunny Yaariyan' Full Video Song (Film Version) _ Himansh Kohli, Rakul Preet-MXJCnccDLA0.mp3
+Aug 24 11:15 : update: added /Hua Hain Aaj Pehli Baar FULL VIDEO _ SANAM RE _ Pulkit Samrat, Urvashi Rautela _ Divya Khosla Kumar-DGVJtAHzzDQ.mp3
+Aug 24 11:15 : update: added /Imran Khan - Imaginary (Official Music Video)-eBI23_Sjfeo.mp3
+Aug 24 11:15 : update: added /Full Video - Bimar Dil _ Pagalpanti _ Urvashi,John,Arshad,Ileana, Pulkit_ Asees K, Jubin N, Tanishk B-uTqBoUFbMVs.mp3
+Aug 24 11:15 : update: added /Luka Chuppi - Duniyaa Full Video Song _ Kartik Aaryan Kriti Sanon _ Akhil _ Dhvani B-hVCYwwFwGEE.mp3
+Aug 24 11:15 : update: added /Illegal Weapon 2.0 - Street Dancer 3D _ Varun D, Shraddha K _ Tanishk B,Jasmine Sandlas,Garry Sandhu-zjMtaw2mrrc.mp3
+Aug 24 11:15 : update: added /Bottle Deep Money Ft. Raftaar Latest Punjabi Full Song _ Born Star-jo122QqAZ-4.mp3
+Aug 24 11:15 : update: added /Tareefan _ Veere Di Wedding _ QARAN  Ft. Badshah _ Kareena Kapoor Khan, Sonam Kapoor, Swara & Shikha-3SWc5G8Gx7E.mp3
+Aug 24 11:15 : update: added /SANAM RE Title  Song FULL VIDEO _ Pulkit Samrat, Yami Gautam, Urvashi Rautela _ Divya Khosla Kumar-DS-raAyMxl4.mp3
+Aug 24 11:15 : update: added /Blush - Bella _ Prod By Jack Love-VPp2EtPsbr0.mp3
+Aug 24 11:15 : update: added /Dheeme Dheeme - Tony Kakkar ft. Neha Sharma _ Official Music Video-9mWdw-09dso.mp3
+Aug 24 11:15 : update: added /King - No Loss (Official Video) _ Prod.by Section8 _ New Life _ Latest Punjabi Hit Songs 2020-zk5FOjXQGS4.mp3
+Aug 24 11:15 : update: added /Dino James – Wishlist feat Kaprila  _ Official Music Video-hFGG7T3Mq3w.mp3
+Aug 24 11:15 : update: added /Skrillex & Damian 'Jr. Gong' Marley - Make It Bun Dem [OFFICIAL VIDEO]-BGpzGu9Yp6Y.mp3
+Aug 24 11:15 : update: added /Pati Patni Aur Woh - Ankhiyon Se Goli Mare _ Kartik A, Bhumi P, Ananya P _ Mika S, Tulsi K, Tanishk B-3GLoGHbhKHg.mp3
+Aug 24 11:15 : update: added /Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3
+Aug 24 11:15 : update: added /Yo Yo Honey Singh - Aankhon Aankhon FULL VIDEO Song _ Kunal Khemu, Deana Uppal _ Bhaag Johnny--Al-S1uishM.mp3
+Aug 24 11:15 : update: added /Abusadamente - MC Gustta e MC DG (KondZilla) _ Official Music Video-Jy93WgiXtzo.mp3
+Aug 24 11:15 : update: added /EPR- RAASTA MAHN (PROD. BY GJ STORM)_ OFFICIAL AUDIO _ ADIACOT-CyBNBQcdFCY.mp3
+Aug 24 11:15 : update: added /Saturday Saturday Full Video - Humpty Sharma Ki Dulhania_Varun, Alia_Badshah, Akriti K-OljkSVLIt6c.mp3
+Aug 24 11:15 : update: added /LMFAO ft. Lauren Bennett, GoonRock - Party Rock Anthem (Official Video)-KQ6zr6kCPj8.mp3
+Aug 24 11:15 : update: added /Daddy Yankee & Snow - Con Calma (Video Oficial)-DiItGE3eAyQ.mp3
+Aug 24 11:15 : update: added /FILHALL _ Akshay Kumar Ft Nupur Sanon _ BPraak _ Jaani _ Arvindr Khaira _ Ammy Virk _ Official Video-hMy5za-m5Ew.mp3
+Aug 24 11:15 : update: added /Mungda _ Full Song _ मुंगडा _Total Dhamaal _ Sonakshi_ Jyotica _ Shaan _Subhro _Gourov-Roshin-ylW9gdva7Oo.mp3
+Aug 24 11:15 : update: added /Baaghi 3 - Do You Love Me _ Disha Patani _ Tiger S, Shraddha K _ René Bendali _ Tanishk B _ Nikhita-PHskP9wglJ8.mp3
+Aug 24 11:15 : update: added /King - Tum Saath Rehnaa (Official Video) _ Nikita Thakur _ New Life _ Latest songs 2019-SpoHVGwoiWs.mp3
+Aug 24 11:15 : update: added /Skrillex - First Of The Year (Equinox) [Official Music Video]-2cXDgFwE13g.mp3
+Aug 24 11:15 : update: added /Ellie Goulding - Love Me Like You Do (Official Video)-AJtDXIazrMo.mp3
+Aug 24 11:15 : update: added /Badshah - Nain _ Aastha Gill _ Album ONE _ Lyrics Video-bHP7l56fAe8.mp3
+Aug 24 11:15 : update: added /Perdesiya a such hain priya.... Create by humayun-E7zBDZMyDNA.mp3
+Aug 24 11:15 : update: added /Sukhe - I Need Ya _ Feat Krystle D'Souza _ Jaani _ B Praak _ Arvindr Khaira-oWG_BLt7vfU.mp3
+Aug 24 11:15 : update: added /Remember The Name (Official Video) - Fort Minor-VDvr08sCPOc.mp3
+Aug 24 11:15 : update: added /In The End (Official Video) - Linkin Park-eVTXPUF4Oz4.mp3
+Aug 24 11:15 : update: added /Kamariya Hila Rahi Hai _ Pawan Singh _ Lauren G _ Payal Dev _ Mudassar Khan _ Mohsin S _ Jjust Music-kayOHvB-vX8.mp3
+Aug 24 11:15 : update: added /To The Top Official Video - SlowCheeta ft Taaruk _ Indian rap song--fUh_ImzJVo.mp3
+Aug 24 11:15 : update: added /King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3
+Aug 24 11:15 : update: added /Iski Uski FULL Video Song _ 2 States _ Arjun Kapoor, Alia Bhatt-xQMMBANbcdQ.mp3
+Aug 24 11:15 : update: added /DILBAR Full Audio _ Satyameva Jayate _ John Abraham _ Nora _ Tanishk B, Neha Kakkar, Dhvani , Ikka-jTZnWupUS50.mp3
+Aug 24 11:15 : update: added /Pitbull - Rain Over Me ft. Marc Anthony-SmM0653YvXU.mp3
+Aug 24 11:15 : update: added /HIGH HEELS OFFICIAL VIDEO - JAZ DHAMI FT YO YO HONEY SINGH-Tkgad9gngOQ.mp3
+Aug 24 11:15 : update: added /NAAGIN JAISI KAMAR HILA - TONY KAKKAR FT. Elnaaz Norouzi _ Sangeetkaar _ Latest Hindi Song 2019-vc39ZRt2buw.mp3
+Aug 24 11:15 : update: added /EMIWAY X PRZNT - LONELY (PROD BY VODLI) (OFFICIAL MUSIC VIDEO)--eOg0QqWX2A.mp3
+Aug 24 11:15 : update: added /Badshah - Oxygen _ ONE Album _ Lyrics Video-lhV7L-6v6AU.mp3
+Aug 24 11:15 : update: added /Masalei Ni feat. BTS _ Boy With Luv-YaA-Gn9D4vk.mp3
+Aug 24 11:15 : update: added /BANGGTOWN _ Kuwar Virk Ft. Ikka_ Latest Punjabi Songs 2018_ Eagle Music-V4SLWosfNFk.mp3
+Aug 24 11:15 : update: added /Eminem - Death Note (2020)-UFHHL6raKNw.mp3
+Aug 24 11:15 : update: added /Daddy Yankee - Limbo (Video Oficial)-6BTjG-dhf5s.mp3
+Aug 24 11:15 : update: added /Baaghi 3 - Dus Bahane 2.0 _ Vishal & Shekhar FEAT. KK, Shaan & Tulsi Kumar _ Tiger S, Shraddha K-vjOKuvBjkS8.mp3
+Aug 24 11:15 : update: added /Jai Jai Shivshankar - Full Song _ War _ Hrithik Roshan, Tiger Shroff _ Vishal & Shekhar, Benny Dayal-oGneAab3e88.mp3
+Aug 24 11:15 : update: added /Muqabla - Street Dancer 3D.mp3
+Aug 24 11:15 : update: added /BILLO _ J STAR _ Full Official Video _ J STAR Productions-wEqifG8ATBI.mp3
+Aug 24 11:15 : update: added /Tu Cheej Lajwaab _ तू चीज लाजबाब _ Pardeep Boora & Sapna Chaudhary _  Haryanvi Video Song-Vi7-HjOtyKA.mp3
+Aug 24 11:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 11:16 : client: [2] opened from 127.0.0.1:44074
+Aug 24 11:16 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 11:16 : client: [2] closed
+Aug 24 11:16 : client: [3] opened from 127.0.0.1:44076
+Aug 24 11:16 : client: [3] closed
+Aug 24 11:16 : client: [4] opened from 127.0.0.1:44080
+Aug 24 11:16 : client: [4] closed
+Aug 24 11:16 : client: [5] opened from 127.0.0.1:44082
+Aug 24 11:16 : client: [5] closed
+Aug 24 11:16 : client: [6] opened from 127.0.0.1:44084
+Aug 24 11:16 : client: [6] closed
+Aug 24 11:16 : client: [7] opened from 127.0.0.1:44088
+Aug 24 11:16 : client: [7] closed
+Aug 24 11:16 : client: [8] opened from 127.0.0.1:44090
+Aug 24 11:16 : client: [8] closed
+Aug 24 11:16 : client: [9] opened from 127.0.0.1:44092
+Aug 24 11:16 : client: [9] closed
+Aug 24 11:16 : client: [10] opened from 127.0.0.1:44094
+Aug 24 11:16 : client: [10] closed
+Aug 24 11:16 : client: [11] opened from 127.0.0.1:44104
+Aug 24 11:16 : client: [11] closed
+Aug 24 11:16 : client: [12] opened from 127.0.0.1:44108
+Aug 24 11:16 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 11:16 : client: [12] closed
+Aug 24 11:17 : client: [1] closed
+Aug 24 11:17 : client: [13] opened from 127.0.0.1:44124
+Aug 24 11:17 : client: [13] closed
+Aug 24 11:17 : client: [14] opened from 127.0.0.1:44126
+Aug 24 11:17 : client: [14] closed
+Aug 24 11:17 : client: [15] opened from 127.0.0.1:44128
+Aug 24 11:17 : client: [15] closed
+Aug 24 11:17 : client: [16] opened from 127.0.0.1:44130
+Aug 24 11:17 : client: [16] closed
+Aug 24 11:17 : client: [17] opened from 127.0.0.1:44134
+Aug 24 11:17 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 11:17 : client: [17] closed
+Aug 24 11:23 : client: [18] opened from [::1]:59998
+Aug 24 11:25 : client: [18] closed
+Aug 24 11:25 : client: [19] opened from [::1]:60048
+Aug 24 11:26 : client: [19] closed
+Aug 24 11:26 : client: [20] opened from 127.0.0.1:44444
+Aug 24 11:26 : client: [20] closed
+Aug 24 11:26 : client: [21] opened from 127.0.0.1:44446
+Aug 24 11:26 : client: [21] closed
+Aug 24 11:26 : client: [22] opened from 127.0.0.1:44448
+Aug 24 11:26 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 11:26 : client: [22] closed
+Aug 24 11:29 : client: [23] opened from [::1]:60184
+Aug 24 11:29 : client: [23] closed
+Aug 24 11:29 : client: [24] opened from 127.0.0.1:44578
+Aug 24 11:29 : client: [24] closed
+Aug 24 11:29 : client: [25] opened from 127.0.0.1:44580
+Aug 24 11:29 : client: [25] closed
+Aug 24 11:29 : client: [26] opened from 127.0.0.1:44582
+Aug 24 11:29 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 11:29 : client: [26] closed
+Aug 24 12:27 : client: [27] opened from 127.0.0.1:47370
+Aug 24 12:27 : client: [27] closed
+Aug 24 12:31 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 12:31 : client: [28] opened from 127.0.0.1:47478
+Aug 24 12:31 : client: [28] closed
+Aug 24 12:31 : client: [29] opened from 127.0.0.1:47480
+Aug 24 12:31 : player: played "EPR- RAASTA MAHN (PROD. BY GJ STORM)_ OFFICIAL AUDIO _ ADIACOT-CyBNBQcdFCY.mp3"
+Aug 24 12:31 : client: [29] closed
+Aug 24 12:37 : exception: Failed to commit /home/ryuke/.config/mpd/state: File exists
+Aug 24 15:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:02 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 15:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:13 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 15:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:16 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 15:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:17 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 15:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:18 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 24 15:18 : client: [0] opened from 127.0.0.1:60426
+Aug 24 15:18 : client: [1] opened from [::1]:36566
+Aug 24 15:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:22 : player: played "Remember The Name (Official Video) - Fort Minor-VDvr08sCPOc.mp3"
+Aug 24 15:22 : client: [1] closed
+Aug 24 16:43 : client: [0] closed
+Aug 24 16:43 : client: [2] opened from 127.0.0.1:33972
+Aug 24 16:46 : client: [2] closed
+Aug 24 16:46 : client: [3] opened from 127.0.0.1:34200
+Aug 24 16:48 : client: [3] closed
+Aug 24 16:48 : client: [4] opened from 127.0.0.1:34276
+Aug 24 16:48 : client: [4] closed
+Aug 24 16:48 : client: [5] opened from 127.0.0.1:34300
+Aug 24 16:49 : client: [5] closed
+Aug 24 16:49 : client: [6] opened from 127.0.0.1:34316
+Aug 24 16:54 : client: [6] closed
+Aug 24 16:54 : client: [7] opened from 127.0.0.1:34498
+Aug 24 16:54 : client: [7] closed
+Aug 24 16:54 : client: [8] opened from 127.0.0.1:34514
+Aug 24 17:02 : client: [9] opened from 127.0.0.1:34994
+Aug 24 17:02 : client: [9] closed
+Aug 24 17:02 : client: [10] opened from 127.0.0.1:35002
+Aug 24 17:02 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Aug 24 17:02 : client: [10] closed
+Aug 24 17:02 : client: [11] opened from 127.0.0.1:35004
+Aug 24 17:02 : client: [11] closed
+Aug 24 17:02 : client: [12] opened from 127.0.0.1:35008
+Aug 24 17:02 : player: played "Badshah - Nain _ Aastha Gill _ Album ONE _ Lyrics Video-bHP7l56fAe8.mp3"
+Aug 24 17:02 : client: [12] closed
+Aug 24 17:02 : client: [13] opened from 127.0.0.1:35010
+Aug 24 17:02 : client: [13] closed
+Aug 24 17:03 : client: [14] opened from 127.0.0.1:35014
+Aug 24 17:03 : client: [14] closed
+Aug 24 17:03 : client: [15] opened from 127.0.0.1:35018
+Aug 24 17:03 : client: [15] closed
+Aug 24 17:06 : client: [8] closed
+Aug 24 17:06 : client: [16] opened from 127.0.0.1:35126
+Aug 24 17:06 : player: played "Remember The Name (Official Video) - Fort Minor-VDvr08sCPOc.mp3"
+Aug 24 17:07 : client: [16] closed
+Aug 24 17:07 : client: [17] opened from 127.0.0.1:35154
+Aug 24 17:08 : client: [17] closed
+Aug 24 17:08 : client: [18] opened from 127.0.0.1:35182
+Aug 24 17:08 : client: [18] closed
+Aug 24 17:08 : client: [19] opened from 127.0.0.1:35192
+Aug 24 17:09 : client: [19] closed
+Aug 24 17:09 : client: [20] opened from 127.0.0.1:35222
+Aug 24 17:09 : client: [20] closed
+Aug 24 17:09 : client: [21] opened from 127.0.0.1:35236
+Aug 24 17:09 : player: played "Badshah - Nain _ Aastha Gill _ Album ONE _ Lyrics Video-bHP7l56fAe8.mp3"
+Aug 24 17:10 : client: [22] opened from [::1]:39670
+Aug 24 17:12 : client: [21] closed
+Aug 24 17:12 : client: [23] opened from 127.0.0.1:35470
+Aug 24 17:17 : player: played "Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3"
+Aug 24 17:17 : client: [23] closed
+Aug 24 17:17 : client: [24] opened from 127.0.0.1:35676
+Aug 24 17:18 : client: [24] closed
+Aug 24 17:18 : client: [25] opened from 127.0.0.1:35706
+Aug 24 17:19 : client: [25] closed
+Aug 24 17:19 : client: [26] opened from 127.0.0.1:35742
+Aug 24 17:20 : client: [26] closed
+Aug 24 17:20 : client: [27] opened from 127.0.0.1:35758
+Aug 24 17:21 : player: played "Pitbull - Rain Over Me ft. Marc Anthony-SmM0653YvXU.mp3"
+Aug 24 17:22 : client: [28] opened from 127.0.0.1:35836
+Aug 24 17:22 : client: [28] closed
+Aug 24 17:22 : client: [29] opened from 127.0.0.1:35838
+Aug 24 17:22 : client: [29] closed
+Aug 24 17:25 : player: played "Pati Patni Aur Woh - Ankhiyon Se Goli Mare _ Kartik A, Bhumi P, Ananya P _ Mika S, Tulsi K, Tanishk B-3GLoGHbhKHg.mp3"
+Aug 24 17:26 : client: [22] closed
+Aug 24 17:26 : client: [30] opened from 127.0.0.1:35974
+Aug 24 17:26 : client: [30] closed
+Aug 24 17:26 : client: [31] opened from 127.0.0.1:36008
+Aug 24 17:26 : client: [31] closed
+Aug 24 17:26 : client: [32] opened from 127.0.0.1:36010
+Aug 24 17:26 : client: [32] closed
+Aug 24 17:27 : client: [33] opened from 127.0.0.1:36020
+Aug 24 17:27 : client: [33] closed
+Aug 24 17:27 : client: [34] opened from 127.0.0.1:36024
+Aug 24 17:27 : client: [34] closed
+Aug 24 17:27 : client: [35] opened from 127.0.0.1:36026
+Aug 24 17:27 : client: [35] closed
+Aug 24 17:27 : client: [36] opened from 127.0.0.1:36042
+Aug 24 17:27 : client: [36] closed
+Aug 24 17:52 : client: [37] opened from [::1]:40802
+Aug 24 17:54 : client: [37] closed
+Aug 24 17:54 : client: [38] opened from [::1]:40866
+Aug 24 17:56 : player: played "Yo Yo Honey Singh - Aankhon Aankhon FULL VIDEO Song _ Kunal Khemu, Deana Uppal _ Bhaag Johnny--Al-S1uishM.mp3"
+Aug 24 17:57 : client: [38] closed
+Aug 24 17:58 : client: [39] opened from [::1]:41046
+Aug 24 17:59 : client: [40] opened from [::1]:41076
+Aug 24 18:00 : client: [40] closed
+Aug 24 18:00 : client: [41] opened from 127.0.0.1:36726
+Aug 24 18:00 : client: [41] closed
+Aug 24 18:06 : client: [39] closed
+Aug 24 22:20 : client: [27] closed
+Aug 24 22:20 : client: [42] opened from 127.0.0.1:38128
+Aug 24 22:22 : client: [42] closed
+Aug 24 22:22 : client: [43] opened from 127.0.0.1:38210
+Aug 24 22:23 : client: [43] closed
+Aug 24 22:23 : client: [44] opened from 127.0.0.1:38298
+Aug 24 22:24 : client: [44] closed
+Aug 24 22:24 : client: [45] opened from 127.0.0.1:38348
+Aug 24 22:30 : client: [46] opened from [::1]:43356
+Aug 24 22:31 : client: [47] opened from 127.0.0.1:38998
+Aug 24 22:31 : client: [47] closed
+Aug 24 22:33 : player: played "Baaghi 3 - Do You Love Me _ Disha Patani _ Tiger S, Shraddha K _ René Bendali _ Tanishk B _ Nikhita-PHskP9wglJ8.mp3"
+Aug 24 22:36 : player: played "Badshah - Nain _ Aastha Gill _ Album ONE _ Lyrics Video-bHP7l56fAe8.mp3"
+Aug 24 22:39 : client: [45] closed
+Aug 24 22:39 : client: [48] opened from 127.0.0.1:39376
+Aug 24 22:39 : client: [48] closed
+Aug 24 22:39 : client: [49] opened from 127.0.0.1:39388
+Aug 24 22:40 : client: [49] closed
+Aug 24 22:40 : client: [50] opened from 127.0.0.1:39414
+Aug 24 22:40 : client: [50] closed
+Aug 24 22:40 : client: [51] opened from 127.0.0.1:39432
+Aug 24 22:40 : client: [51] closed
+Aug 24 22:40 : client: [52] opened from 127.0.0.1:39438
+Aug 24 22:41 : client: [52] closed
+Aug 24 22:41 : client: [53] opened from 127.0.0.1:39460
+Aug 24 22:41 : client: [53] closed
+Aug 24 22:41 : client: [54] opened from 127.0.0.1:39464
+Aug 24 22:42 : client: [54] closed
+Aug 24 22:42 : client: [55] opened from 127.0.0.1:39470
+Aug 24 22:42 : client: [56] opened from 127.0.0.1:39488
+Aug 24 22:42 : client: [56] closed
+Aug 24 22:53 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 24 22:55 : player: played "Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3"
+Aug 24 23:00 : player: played "Tu Cheej Lajwaab _ तू चीज लाजबाब _ Pardeep Boora & Sapna Chaudhary _  Haryanvi Video Song-Vi7-HjOtyKA.mp3"
+Aug 24 23:05 : player: played "Mere Naseeb Mein (Remix) - Baby H _ Megha Chatterji-YAQdrO3FCww.mp3"
+Aug 24 23:08 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 24 23:16 : player: played "LYRICS - Aashiq Banaya Aapne Song _ Hate Story IV _ Urvashi Rautela _ Himesh Reshammiya _ Neha Kakkar-zNMGiMg75zg.mp3"
+Aug 24 23:20 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 24 23:23 : player: played "Imran Khan - Imaginary (Official Music Video)-eBI23_Sjfeo.mp3"
+Aug 24 23:29 : client: [46] closed
+Aug 24 23:30 : client: [57] opened from 127.0.0.1:41764
+Aug 24 23:30 : player: played "DILBAR Full Audio _ Satyameva Jayate _ John Abraham _ Nora _ Tanishk B, Neha Kakkar, Dhvani , Ikka-jTZnWupUS50.mp3"
+Aug 24 23:30 : client: [57] closed
+Aug 25 10:46 : client: [58] opened from 127.0.0.1:42664
+Aug 25 10:46 : client: [58] closed
+Aug 25 10:46 : client: [59] opened from [::1]:47042
+Aug 25 11:00 : player: played "Daaru Party (Full Song) _ Millind Gaba _ Latest Punjabi Songs 2015 _ Speed Records-Wr2NN4VQ1nI.mp3"
+Aug 25 11:09 : player: played "HIGH HEELS OFFICIAL VIDEO - JAZ DHAMI FT YO YO HONEY SINGH-Tkgad9gngOQ.mp3"
+Aug 25 11:18 : client: [60] opened from 127.0.0.1:43758
+Aug 25 11:18 : client: [60] closed
+Aug 25 11:20 : client: [61] opened from 127.0.0.1:43808
+Aug 25 11:20 : client: [61] closed
+Aug 25 11:20 : client: [62] opened from 127.0.0.1:43810
+Aug 25 11:20 : client: [62] closed
+Aug 25 11:20 : client: [63] opened from 127.0.0.1:43822
+Aug 25 11:20 : client: [63] closed
+Aug 25 11:27 : player: played "Mere Naseeb Mein (Remix) - Baby H _ Megha Chatterji-YAQdrO3FCww.mp3"
+Aug 25 11:30 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 25 11:34 : client: [64] opened from 127.0.0.1:44334
+Aug 25 11:34 : client: [64] closed
+Aug 25 11:34 : client: [65] opened from 127.0.0.1:44336
+Aug 25 11:34 : client: [65] closed
+Aug 25 11:34 : client: [66] opened from 127.0.0.1:44340
+Aug 25 11:34 : client: [66] closed
+Aug 25 11:34 : client: [67] opened from 127.0.0.1:44342
+Aug 25 11:34 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 25 11:34 : client: [67] closed
+Aug 25 12:13 : client: [59] closed
+Aug 25 12:25 : client: [55] closed
+Aug 25 12:25 : client: [68] opened from 127.0.0.1:46204
+Aug 25 12:43 : client: [69] opened from 127.0.0.1:47082
+Aug 25 12:43 : client: [69] closed
+Aug 25 12:47 : client: [70] opened from 127.0.0.1:47262
+Aug 25 12:47 : client: [70] closed
+Aug 25 12:47 : client: [71] opened from 127.0.0.1:47264
+Aug 25 12:47 : client: [71] closed
+Aug 25 12:47 : client: [72] opened from 127.0.0.1:47266
+Aug 25 12:47 : client: [72] closed
+Aug 25 12:47 : client: [73] opened from 127.0.0.1:47268
+Aug 25 12:47 : client: [73] closed
+Aug 25 12:47 : client: [74] opened from 127.0.0.1:47270
+Aug 25 12:47 : client: [74] closed
+Aug 25 12:47 : client: [75] opened from 127.0.0.1:47274
+Aug 25 12:47 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 25 12:47 : client: [75] closed
+Aug 25 13:08 : client: [68] closed
+Aug 25 13:08 : client: [76] opened from 127.0.0.1:48158
+Aug 25 19:07 : client: [76] closed
+Aug 25 19:07 : client: [77] opened from 127.0.0.1:52430
+Aug 25 19:07 : client: [77] closed
+Aug 25 19:07 : client: [78] opened from 127.0.0.1:52432
+Aug 25 19:07 : client: [78] closed
+Aug 25 19:07 : client: [79] opened from 127.0.0.1:52436
+Aug 25 19:32 : client: [79] closed
+Aug 25 19:32 : client: [80] opened from 127.0.0.1:52764
+Aug 25 19:33 : client: [80] closed
+Aug 25 19:33 : client: [81] opened from 127.0.0.1:52812
+Aug 25 19:33 : client: [81] closed
+Aug 25 19:33 : client: [82] opened from 127.0.0.1:52822
+Aug 25 19:33 : client: [82] closed
+Aug 25 19:33 : client: [83] opened from 127.0.0.1:52830
+Aug 25 19:34 : client: [83] closed
+Aug 25 19:34 : client: [84] opened from 127.0.0.1:52842
+Aug 25 19:34 : client: [84] closed
+Aug 25 19:34 : client: [85] opened from 127.0.0.1:52846
+Aug 25 19:34 : client: [85] closed
+Aug 25 19:34 : client: [86] opened from 127.0.0.1:52850
+Aug 25 19:34 : client: [86] closed
+Aug 25 19:34 : client: [87] opened from 127.0.0.1:52856
+Aug 25 19:34 : client: [87] closed
+Aug 25 19:34 : client: [88] opened from 127.0.0.1:52860
+Aug 25 19:42 : client: [88] closed
+Aug 25 19:42 : client: [89] opened from 127.0.0.1:53154
+Aug 25 19:43 : client: [89] closed
+Aug 25 19:43 : client: [90] opened from 127.0.0.1:53176
+Aug 25 19:43 : client: [90] closed
+Aug 25 19:43 : client: [91] opened from 127.0.0.1:53180
+Aug 25 19:43 : client: [91] closed
+Aug 25 19:43 : client: [92] opened from 127.0.0.1:53202
+Aug 25 19:45 : client: [92] closed
+Aug 25 19:45 : client: [93] opened from 127.0.0.1:53236
+Aug 25 20:00 : client: [93] closed
+Aug 25 20:00 : client: [94] opened from 127.0.0.1:53724
+Aug 25 20:00 : client: [94] closed
+Aug 25 20:01 : client: [95] opened from 127.0.0.1:53734
+Aug 25 20:01 : client: [95] closed
+Aug 25 20:01 : client: [96] opened from 127.0.0.1:53736
+Aug 25 20:44 : client: [96] closed
+Aug 25 20:44 : exception: Failed to commit /home/ryuke/.config/mpd/state: File exists
+Aug 25 22:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 22:42 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 22:42 : client: [0] opened from 127.0.0.1:52514
+Aug 25 22:42 : client: [1] opened from [::1]:39030
+Aug 25 22:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 22:43 : client: [1] closed
+Aug 25 22:43 : client: [2] opened from [::1]:39084
+Aug 25 22:46 : client: [2] closed
+Aug 25 22:46 : client: [3] opened from [::1]:39216
+Aug 25 22:47 : client: [3] closed
+Aug 25 22:47 : client: [4] opened from [::1]:39248
+Aug 25 22:49 : client: [4] closed
+Aug 25 22:49 : client: [5] opened from [::1]:39386
+Aug 25 22:49 : client: [5] closed
+Aug 25 22:52 : player: played "Baaghi 3 - Do You Love Me _ Disha Patani _ Tiger S, Shraddha K _ René Bendali _ Tanishk B _ Nikhita-PHskP9wglJ8.mp3"
+Aug 25 22:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 22:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 22:52 : client: [0] opened from 127.0.0.1:52972
+Aug 25 22:52 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 22:52 : client: [1] opened from [::1]:39490
+Aug 25 22:52 : exception: Failed to open audio output
+Aug 25 22:52 : client: [1] closed
+Aug 25 22:57 : client: [2] opened from [::1]:39780
+Aug 25 22:58 : update: added /HIGH HEELS TE NACHCHE Video Song _ KI & KA _ Meet Bros ft. Jaz Dhami _ Yo Yo Honey Singh _ T-Series-N_KpjLhJa1k.mp3
+Aug 25 22:58 : update: added /Full Video - GALLA GORIYAN - AAJA SONIYE _ Kanika Kapoor, Mika Singh _ Baa Baaa Black Sheep-oBdtL5b9mkw.mp3
+Aug 25 22:58 : update: added /Official - Devil-Yaar Naa Miley _ Salman Khan _ Yo Yo Honey Singh _ Kick-Zti5s48tc7k.mp3
+Aug 25 22:58 : update: added /O Saathi Lyrical Video _ Baaghi 2 _ Tiger Shroff _ Disha Patani _ Arko _ Ahmed Khan Sajid Nadiadwala-YuXLN23ZGQo.mp3
+Aug 25 22:58 : update: added /Naam Shabana - Dil Hua Besharam Full Video _ Akshay Kumar, Taapsee Pannu _  Meet Bros, Aditi-7h0AUlbrfp4.mp3
+Aug 25 22:58 : update: added /Lyrics -3 Peg_Label Black _ T-Series Mixtape Punjabi _ Sharry Mann _ Gupz Sehra _ Bhushan Kumar-nEkxkhLrqzc.mp3
+Aug 25 22:58 : update: added /NAZAR LAG JAYEGI With Lyrics _ Millind Gaba, Kamal Raja _ Shabby _ Valentine's Day Special-yimS6fOISuc.mp3
+Aug 25 22:58 : update: added /Full Video - Tera Yaar Hoon Main _ Sonu Ke Titu Ki Sweety _ Arijit Singh Rochak Kohli _ Song 2018-EatzcaVJRMs.mp3
+Aug 25 22:58 : update: added /Chaar Botal Vodka Full Song Feat. Yo Yo Honey Singh, Sunny Leone _ Ragini MMS 2-x8F5dz8kv1w.mp3
+Aug 25 22:58 : update: added /Raabta - Sadda Move Lyrical Video _ Sushant Rajput, Kriti Sanon _ Pritam _ Diljit Dosanjh _ Raftaar-7z88LDfzNqQ.mp3
+Aug 25 22:58 : update: added /PYAAR MANGA HAI Video Song _ Zareen Khan,Ali Fazal _ Armaan Malik, Neeti Mohan  _ Latest Hindi Song-sNyvRvnjqqM.mp3
+Aug 25 22:58 : update: added /Guru Randhawa - MADE IN INDIA _ Bhushan Kumar _ DirectorGifty _ Elnaaz Norouzi _ Vee-pnMQLrS5sTE.mp3
+Aug 25 22:58 : update: added /Lakk Mera Hit Video Song _ Sonu Ke Titu Ki Sweety _ Sukriti Kakar, Mannat Noor & Rochak Kohli-sF291kqM_tA.mp3
+Aug 25 22:58 : update: added /REMIX - Tera Yaar Hoon Main _ Sonu Ke Titu Ki Sweety _ Arijit Singh _ DJ Chetas & DJ NYK-0mdP_YyqYio.mp3
+Aug 25 22:58 : update: added /Exclusive - LOVE DOSE Full Video Song _ Yo Yo Honey Singh, Urvashi Rautela _ Desi Kalakaar-TvngY4unjn4.mp3
+Aug 25 22:58 : update: added /Kabira Naina Lyrical Video Songs l T-Series Mixtape _ Neha Kakkar _ Mohd Irfan l T-Series-mMUCyie3qXI.mp3
+Aug 25 22:58 : update: added /Daru Vich Pyaar Video Song _ Guest iin London _ Raghav Sachar _  Kartik Aaryan &  Kriti Kharbanda-J-Ybh1fQJb4.mp3
+Aug 25 22:58 : update: added /Heropanti - Rabba Video Song _ Mohit Chauhan _ Tiger Shroff _ Kriti Sanon-o4mHtJLgMLs.mp3
+Aug 25 22:58 : update: added /Move Your Lakk Video Song _ Noor _ Sonakshi Sinha & Diljit Dosanjh, Badshah _ T-Series-kMRRIMmICmM.mp3
+Aug 25 22:58 : update: added /SANAM RE Song (VIDEO) _ Pulkit Samrat, Yami Gautam, Urvashi Rautela, Divya Khosla Kumar _ T-Series-MiG5jPmyDFI.mp3
+Aug 25 22:58 : update: added /Gazab Ka Hai Din Video _ DIL JUUNGLEE _ Tanishk B Jubin N Prakriti K _ Taapsee Pannu _ Saqib S-d2p2Lh9AbSY.mp3
+Aug 25 22:58 : update: added /Main Tera Boyfriend Song _ Raabta _ Arijit S _ Neha K Meet Bros _ Sushant Singh Rajput Kriti Sanon-FQS7i2z1CoA.mp3
+Aug 25 22:58 : update: added /Tamma Tamma Again _ Varun , Alia _ Bappi L, Anuradha P _ Tanishk, Badshah _  'Badrinath Ki Dulhania'-EEX_XM6SxmY.mp3
+Aug 25 22:58 : update: added /Talli Tonight Lyrical Video _ VEEREY KI WEDDING _ Meet Bros, Deep Money, Neha Kakar _ T-Series-8BuDRP0MBno.mp3
+Aug 25 22:58 : update: added /Atif Aslam - Pehli Dafa Song (Video) _ Ileana D’Cruz _ Latest Hindi Song 2017 _ T-Series-SxTYjptEzZs.mp3
+Aug 25 22:58 : update: added /Tumhari Sulu -  'Hawa Hawai 2.0' Video Song _ Vidya Balan _ Vidya Balan, Neha Dhupia & Malishka-kw2M0zM2pjo.mp3
+Aug 25 22:58 : update: added /'Gallan Goodiyaan' Full VIDEO Song _ Dil Dhadakne Do _ T-Series-jCEdTq3j-0U.mp3
+Aug 25 22:58 : update: added /Aashiq Banaya Aapne Title (Full Song) _ Himesh Reshammiya,Shreya Ghoshal _ Emraan Hashmi,Tanushree D-0bAVd9jJE2Q.mp3
+Aug 25 22:58 : update: added /Kaun Nachdi (Video) _ Sonu Ke Titu Ki Sweety _ Guru Randhawa _ Neeti Mohan-NbWKYgaWzbI.mp3
+Aug 25 22:58 : update: added /Lift Teri Bandh Hai Full Song _ Judwaa 2 _ Varun _ Jacqueline _ Taapsee _ David Dhawan _ Anu Malik-gNN7hyUi0To.mp3
+Aug 25 22:58 : update: added /Nachange Saari Raat Full Video Song _ JUNOONIYAT _ Pulkit Samrat,Yami Gautam_ T-Series-rxMmistOjCA.mp3
+Aug 25 22:58 : update: added /Ki Kariye Nachna Aaonda Nahin ( Full Video)_ Tum Bin2 _ Mouni Roy, Hardy Sandhu, Neha Kakkar,Raftaar-zV67DZwJpcU.mp3
+Aug 25 22:58 : update: added /Fevicol Se Full Video Song Dabangg 2 (Official) ★ Kareena Kapoor ★ Salman Khan-zE7Pwgl6sLA.mp3
+Aug 25 22:58 : update: added /Tumhe Dillagi Song By Rahat Fateh Ali Khan _ Huma Qureshi, Vidyut Jammwal _ Salim - Sulaiman-0w62ddeVwGE.mp3
+Aug 25 22:58 : update: added /Badtameez Dil Full Song HD Yeh Jawaani Hai Deewani _ Ranbir Kapoor, Deepika Padukone-II2EO3Nw4m0.mp3
+Aug 25 22:58 : update: added /Millind Gaba - NAZAR LAG JAYEGI Video Song _ Kamal Raja _ Shabby _ New Hindi Songs 2018-kckDWrICC4s.mp3
+Aug 25 22:58 : update: added /Haseeno Ka Deewana Video Song _ Kaabil _ Hrithik Roshan, Urvashi Rautela _ Raftaar & Payal Dev-plJTJKoPAZk.mp3
+Aug 25 22:58 : update: added /Guru Randhawa - High Rated Gabru Official Song _ DirectorGifty _ T-Series-hjWf8A0YNSE.mp3
+Aug 25 22:58 : update: added /HUA HAIN AAJ PEHLI BAAR _ SANAM RE _ Pulkit Samrat, Urvashi Rautela, Divya Khosla Kumar_ T-Series-vL3_GMhNe4M.mp3
+Aug 25 22:58 : update: added /Full Video - Lo Safar Song _ Baaghi 2 _ Tiger Shroff _ Disha P _ Mithoon _ Jubin N _ Ahmed K _Sajid N-Skp5roPkjys.mp3
+Aug 25 22:58 : update: added /LYRICAL - High Rated Gabru_Ban Ja Rani _ T-Series Mixtape Punjabi _ Guru Randhawa _ Neha Kakkar-sln0ssx1dKs.mp3
+Aug 25 22:58 : update: added /DIL CHEEZ TUJHE DEDI Full Video Song _ AIRLIFT _ Akshay Kumar _ Ankit Tiwari, Arijit Singh-BkA0lq-0f14.mp3
+Aug 25 22:58 : update: added /Queen - London Thumakda Full Video Song _ Kangana Ranaut, Raj Kumar Rao-udra3Mfw2oo.mp3
+Aug 25 22:58 : update: added /Official Video - High End _ CON.FI.DEN.TIAL _ Diljit Dosanjh _ Song 2018-UCoogBnurWk.mp3
+Aug 25 22:58 : update: added /Afghan Jalebi (Ya Baba) VIDEO Song _ Phantom _ Saif Ali Khan, Katrina Kaif _ T-Series-1s74PBDvbcA.mp3
+Aug 25 22:58 : update: added /Bom Diggy Diggy  (VIDEO) _ Zack Knight _ Jasmin Walia _ Sonu Ke Titu Ki Sweety-yIIGQB6EMAM.mp3
+Aug 25 22:58 : update: added /'Abhi Toh Party Shuru Hui Hai' FULL VIDEO Song _ Khoobsurat _ Badshah _ Aastha-8LZgzAZ2lpQ.mp3
+Aug 25 22:58 : update: added /Top 10 Bollywood Songs 2018  (Video Jukebox ) _ 'New Hindi Songs 2018' _ T-Series Latest Songs-IZKDlA6j0Co.mp3
+Aug 25 22:58 : update: added /'Oh Humsafar' Song _ Neha Kakkar Himansh Kohli _ Tony Kakkar _ Bhushan Kumar _ Manoj Muntashir-g4HDfqEWf6Y.mp3
+Aug 25 22:58 : update: added /Trippy Trippy Song _ BHOOMI _ Sunny Leone _ Neha Kakkar _ Benny _ Brijesh _ Badshah _ Sachin Jigar-xPr14A_r30M.mp3
+Aug 25 22:58 : update: added /'Lungi Dance' The Thalaiva Tribute Official Full Song _ Honey Singh, Shahrukh Khan, Deepika Padukone-2kWLyInyjOE.mp3
+Aug 25 22:58 : update: added /Jolly LLB 2 _ GO PAGAL Full  Video Song _ Akshay Kumar,Huma Qureshi _ Manj Musik Raftaar, Nindy Kaur-NuyquAPU5i8.mp3
+Aug 25 22:58 : update: added /'Sheila Ki Jawani' Full Song _ Tees Maar Khan _ Katrina Kaif _ Vishal Dadlani, Sunidhi Chauhan-ZTmF2v59CtI.mp3
+Aug 25 22:58 : update: added /Subah Subah (Video) _ Arijit Singh, Prakriti Kakar _ Amaal Mallik _ Sonu Ke Titu Ki Sweety-ZgTKmRPWMq4.mp3
+Aug 25 22:58 : update: added /Wajah Tum Ho - Maahi Ve Full Song With Lyrics _ Neha Kakkar, Sana, Sharman, Gurmeet _ Vishal Pandya-RxjEJOvnC78.mp3
+Aug 25 22:58 : update: added /Tamma Tamma Again 52 'Non Stop Remix' _ #NewYear2018 Special Songs _ Kedrock & Sd Style _T-Series-FB2lF971TKg.mp3
+Aug 25 22:58 : update: added /'Hawa Hawa' (Full Video Song) _ Mubarakan _ Anil Kapoor, Arjun Kapoor, Ileana D’Cruz, Athiya Shetty-2ll4IA146YI.mp3
+Aug 25 22:58 : update: added /Patola Video Song _ Blackmail _ Irrfan Khan & Kirti Kulhari _ Guru Randhawa-z-ZEHL4Df-A.mp3
+Aug 25 22:58 : update: added /Sukhe SUICIDE Full Video Song _ T-Series _ New Songs 2016 _ Jaani _ B Praak-9p7TiGx7b-4.mp3
+Aug 25 22:58 : update: added /'Chaar Shanivaar' FULL VIDEO Song - Badshah _ Amaal Mallik _ Vishal _ T-Series--6LHV9zl0Ig.mp3
+Aug 25 22:58 : update: added /Maine Tujhko Dekha Full Song (Video) _ Golmaal Again _ Ajay Devgn _ Parineeti-pP8FHmEbink.mp3
+Aug 25 22:58 : update: added /Chalti Hai Kya 9 Se 12 Song _ Judwaa 2 _ Varun _ Jacqueline _ Taapsee _ David Dhawan _ Anu Malik-E9OFaR2DSOI.mp3
+Aug 25 22:58 : update: added /High End Video With LYRICS _ CON.FI.DEN.TIAL _ Diljit Dosanjh _ Song 2018-2McMUPJ0PcE.mp3
+Aug 25 22:58 : update: added /Party All Night Feat. Honey Singh (Full Video) Boss _ Akshay Kumar, Sonakshi Sinha-Wd7H311MrWA.mp3
+Aug 25 22:58 : update: added /Happy Happy Video Song _ Blackmail _ Irrfan Khan _ Badshah _ Aastha Gill-SbQ-_9LM58w.mp3
+Aug 25 22:58 : update: added /Khaana Khaake Song (Video)With Lyrics l Jagga Jasoos l Ranbir Kapoor _ Katrina Kaif _ Pritam-z_FAcjP4Nx0.mp3
+Aug 25 22:58 : update: added /Aashiq Banaya Aapne Full Video _ Hate Story IV _ Urvashi Rautela _ Himesh Reshammiya Neha Kakkar-3fvTwYMmy5Y.mp3
+Aug 25 22:58 : update: added /Baaghi 2 - Mundiyan Song _ Tiger Shroff, Disha Patani _ Ahmed Khan ,Sajid Nadiadwala, Navraj, Palak-i8J0cR-PY9c.mp3
+Aug 25 22:58 : update: added /Ik Vaari Aa _ Raabta _ Sushant Singh Rajput & Kriti Sanon _ Pritam Arijit Singh Amitabh Bhattacharya-h2VbU22H1g8.mp3
+Aug 25 22:58 : update: added /Jagga Jasoos - Galti Se Mistake Video Song _ Ranbir, Katrina _ Pritam, Arijit, Amit _ Amitabh B-05TA9jNnCdU.mp3
+Aug 25 22:58 : update: added /Hatt Ja Tau Video _ Veerey Ki Wedding _ Sunidhi Chauhan _ Sapna Chaudhary-XXfTL-umTnE.mp3
+Aug 25 22:58 : update: added /Aashiq Surrender Hua Lyrical Video _ Varun, Alia _Amaal Mallik,Shreya Ghoshal _Badrinath Ki Dulhania-53zdY-Xfghw.mp3
+Aug 25 22:58 : update: added /Humsafar Remix _ Varun Dhawan, Alia Bhatt _ 'Badrinath Ki Dulhania'_ DJ Yogii _ T-Series-CSO5DhzK094.mp3
+Aug 25 22:58 : update: added /Car Nachdi_Hornn Blow (Video) _ T-Series Mixtape Punjabi _ Gippy Grewal ,Harrdy Sandhu & Neha Kakkar-KjP7O26saoA.mp3
+Aug 25 22:58 : update: added /Yo Yo Honey Singh - DIL CHORI (Video) Simar Kaur, Ishers _ Hans Raj Hans _ Sonu Ke Titu Ki Sweety-xWi8nDUjHGA.mp3
+Aug 25 22:58 : update: added /Full Video - Nit Khair Manga Song _ RAID _ Ajay Devgn _ Ileana D'Cruz _ Raid In Cinemas Now-Y1ALvn_eWu0.mp3
+Aug 25 22:58 : update: added /'Chittiyaan Kalaiyaan' VIDEO SONG _ Roy _ Meet Bros Anjjan, Kanika Kapoor _ T-SERIES-sYeBnmwiWzA.mp3
+Aug 25 22:58 : update: added /JAB TAK Video Song _ M.S. DHONI -THE UNTOLD STORY _ Armaan Malik, Amaal Mallik _Sushant Singh Rajput-0mQLTWvXbXM.mp3
+Aug 25 22:58 : update: added /'Selfie Le Le Re' FULL VIDEO Song - Salman Khan _ Bajrangi Bhaijaan _ T-Series-TITGBTGJZS8.mp3
+Aug 25 22:58 : update: added /Pyar Ki Full Video Song _ HOUSEFULL 3 _ Shaarib & Toshi _ T-Series-iWPUpWJ44pI.mp3
+Aug 25 22:58 : update: added /Taang Uthake Video Song _ HOUSEFULL 3 _ T-SERIES-rohyOGXD0Ug.mp3
+Aug 25 22:58 : update: added /Official Video - Raat Kamaal Hai _ Guru Randhawa & Khushali Kumar _ Tulsi Kumar _ New Song 2018-aNwWdF8qq-M.mp3
+Aug 25 22:58 : update: added /DILL TON BLACCK Video Song _ Jassi Gill Feat. Badshah _ Jaani, B Praak _ New Song 2018--jDBj2UopXY.mp3
+Aug 25 22:58 : update: added /'Mere Rashke Qamar' _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan, Tanisk Manoj-UGkLd1pxHQ0.mp3
+Aug 25 22:58 : update: added /Badri Ki Dulhania (Title Track) Full Video Song _  Varun, Alia, Tanishk, Neha, Monali, Ikka-l2AZaqjpyuI.mp3
+Aug 25 22:58 : update: added /JAANEMAN AAH  Full Video Song _ DISHOOM _ Varun Dhawan_ Parineeti Chopra _ Latest Bollywood Song-sd84Wqq6UzM.mp3
+Aug 25 22:58 : update: added /Guru Randhawa - Ban Ja Rani Video Song With Lyrics _ Tumhari Sulu _ Vidya Balan Manav Kaul-hlvbDjksdCg.mp3
+Aug 25 22:58 : update: added /Remix - Lahore _ Guru Randhawa _ DJ Shadow Dubai  _  Remix 2018 _ T-Series-2wPVkzY4sA4.mp3
+Aug 25 22:58 : update: added /Baby Doll Full Video Song Ragini MMS 2 _ Sunny Leone _ Meet Bros Anjjan Feat. Kanika Kapoor-yP9KiFTyBks.mp3
+Aug 25 22:58 : update: added /BOL DO NA ZARA Full Video Song _ AZHAR _ Emraan Hashmi, Nargis Fakhri _ Armaan Malik, Amaal Mallik-EpEraRui1pc.mp3
+Aug 25 22:58 : update: added /Lakk Mera Hit With Lyrics _ Sonu Ke Titu Ki Sweety _ Sukriti Kakar, Mannat Noor & Rochak Kohli-Pf7tn-6O2zk.mp3
+Aug 25 22:58 : update: added /Suit Full Video Song _ Guru Randhawa Feat. Arjun _ T-Series-uQ763VvqiEM.mp3
+Aug 25 22:58 : update: added /Piya More Song _ Baadshaho _ Emraan Hashmi _ Sunny Leone _ Mika Singh, Neeti Mohan _ Ankit T Manoj M-Y-xtph3p6fc.mp3
+Aug 25 22:58 : update: added /Baaghi 2 - Ek Do Teen Song _ Jacqueline Fernandez _Tiger Shroff _ Disha P_ Ahmed K _ Sajid Nadiadwala-q2gICJFG6uw.mp3
+Aug 25 22:58 : update: added /Lo Safar Song With Lyrics _ Baaghi 2 _ Tiger Shroff _ Disha Patani _ Jubin Nautiyal-jcV7i0WM9jU.mp3
+Aug 25 22:58 : update: added /Refix - Main Tera Boyfriend _ VALENTINE SPECIAL _  Dance Arena Season 2 _ Tatva K _ Episode 5-3FuFg3A_jgQ.mp3
+Aug 25 22:58 : update: added /Chhote Chhote Peg (Video) _ Yo Yo Honey Singh _ Neha Kakkar _ Navraj Hans _ Sonu Ke Titu Ki Sweety-xvYBg6MWPbM.mp3
+Aug 25 22:58 : update: added /Humne Pee Rakhi Hai FULL VIDEO SONG _ SANAM RE _ Divya Khosla Kumar, Jaz Dhami, Neha Kakkar, Ikka-_mmVjaYnc5I.mp3
+Aug 25 22:58 : update: added /'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3
+Aug 25 22:58 : client: [2] closed
+Aug 25 22:58 : player: played "EPR- RAASTA MAHN (PROD. BY GJ STORM)_ OFFICIAL AUDIO _ ADIACOT-CyBNBQcdFCY.mp3"
+Aug 25 22:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 22:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 22:59 : client: [0] opened from 127.0.0.1:59768
+Aug 25 22:59 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 22:59 : client: [1] opened from [::1]:46968
+Aug 25 23:01 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:01 : config: option 'path' on line 394 was not recognized
+Aug 25 23:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:01 : client: [0] opened from 127.0.0.1:59832
+Aug 25 23:01 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:01 : client: [1] opened from [::1]:47030
+Aug 25 23:01 : client: [1] closed
+Aug 25 23:01 : client: [2] opened from [::1]:47034
+Aug 25 23:02 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:02 : config: option 'path' on line 394 was not recognized
+Aug 25 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:02 : client: [0] opened from [::1]:47086
+Aug 25 23:02 : client: [1] opened from 127.0.0.1:59892
+Aug 25 23:02 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:03 : client: [0] closed
+Aug 25 23:03 : client: [2] opened from [::1]:47094
+Aug 25 23:03 : client: [2] closed
+Aug 25 23:03 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:03 : config: option 'path' on line 394 was not recognized
+Aug 25 23:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:03 : client: [0] opened from 127.0.0.1:59912
+Aug 25 23:03 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:03 : client: [1] opened from [::1]:47110
+Aug 25 23:03 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:04 : config: option 'path' on line 394 was not recognized
+Aug 25 23:04 : client: [0] opened from 127.0.0.1:60040
+Aug 25 23:04 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:05 : client: [1] opened from [::1]:47238
+Aug 25 23:05 : exception: Failed to open audio output
+Aug 25 23:05 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:05 : config: option 'path' on line 394 was not recognized
+Aug 25 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:05 : client: [0] opened from 127.0.0.1:60078
+Aug 25 23:05 : client: [1] opened from [::1]:47276
+Aug 25 23:05 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:05 : client: [1] closed
+Aug 25 23:05 : client: [2] opened from [::1]:47280
+Aug 25 23:05 : exception: Failed to open audio output
+Aug 25 23:07 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:07 : config: option 'path' on line 394 was not recognized
+Aug 25 23:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:07 : client: [0] opened from 127.0.0.1:60134
+Aug 25 23:07 : client: [1] opened from [::1]:47332
+Aug 25 23:07 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:07 : client: [1] closed
+Aug 25 23:07 : client: [2] opened from [::1]:47336
+Aug 25 23:08 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:08 : config: option 'path' on line 394 was not recognized
+Aug 25 23:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:08 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:08 : client: [0] opened from 127.0.0.1:60190
+Aug 25 23:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:08 : config: option 'path' on line 394 was not recognized
+Aug 25 23:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:08 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:08 : client: [1] opened from [::1]:47390
+Aug 25 23:08 : exception: Failed to open audio output
+Aug 25 23:09 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:09 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:09 : client: [0] opened from [::1]:47628
+Aug 25 23:09 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:09 : client: [1] opened from 127.0.0.1:60434
+Aug 25 23:10 : client: [0] closed
+Aug 25 23:10 : client: [2] opened from [::1]:47634
+Aug 25 23:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:10 : client: [2] closed
+Aug 25 23:10 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:10 : config: option 'path' on line 394 was not recognized
+Aug 25 23:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:10 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:10 : client: [0] opened from 127.0.0.1:60490
+Aug 25 23:10 : client: [1] opened from [::1]:47688
+Aug 25 23:10 : client: [1] closed
+Aug 25 23:10 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:10 : config: option 'path' on line 394 was not recognized
+Aug 25 23:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:10 : client: [0] opened from 127.0.0.1:60510
+Aug 25 23:11 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:11 : client: [1] opened from [::1]:47710
+Aug 25 23:11 : exception: Failed to open audio output
+Aug 25 23:12 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:12 : config: option 'path' on line 394 was not recognized
+Aug 25 23:12 : client: [0] opened from 127.0.0.1:60612
+Aug 25 23:12 : client: [1] opened from [::1]:47810
+Aug 25 23:12 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:16 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:16 : config: option 'path' on line 394 was not recognized
+Aug 25 23:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:16 : client: [0] opened from 127.0.0.1:60734
+Aug 25 23:16 : client: [1] opened from [::1]:47932
+Aug 25 23:16 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:17 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:17 : config: option 'path' on line 395 was not recognized
+Aug 25 23:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:17 : client: [0] opened from 127.0.0.1:60792
+Aug 25 23:17 : client: [1] opened from 127.0.0.1:60796
+Aug 25 23:17 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:19 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:20 : config: option 'path' on line 395 was not recognized
+Aug 25 23:20 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:20 : client: [0] opened from 127.0.0.1:60998
+Aug 25 23:20 : client: [1] opened from 127.0.0.1:32770
+Aug 25 23:20 : client: [1] closed
+Aug 25 23:23 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:23 : config: option 'path' on line 395 was not recognized
+Aug 25 23:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:23 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:23 : client: [0] opened from 127.0.0.1:32884
+Aug 25 23:23 : client: [1] opened from 127.0.0.1:32888
+Aug 25 23:23 : client: [1] closed
+Aug 25 23:23 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:24 : config: option 'path' on line 395 was not recognized
+Aug 25 23:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:24 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:24 : client: [0] opened from 127.0.0.1:32986
+Aug 25 23:24 : client: [1] opened from 127.0.0.1:32988
+Aug 25 23:24 : exception: Failed to open audio output
+Aug 25 23:25 : client: [0] closed
+Aug 25 23:25 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:25 : config: option 'path' on line 395 was not recognized
+Aug 25 23:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:25 : client: [0] opened from 127.0.0.1:52048
+Aug 25 23:25 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:25 : client: [1] opened from 127.0.0.1:52050
+Aug 25 23:25 : client: [1] closed
+Aug 25 23:26 : client: [2] opened from 127.0.0.1:52096
+Aug 25 23:26 : client: [2] closed
+Aug 25 23:27 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 25 23:28 : client: [3] opened from 127.0.0.1:52268
+Aug 25 23:28 : exception: Failed to open audio output
+Aug 25 23:28 : client: [3] closed
+Aug 25 23:28 : client: [4] opened from 127.0.0.1:52280
+Aug 25 23:28 : client: [4] closed
+Aug 25 23:31 : client: [5] opened from 127.0.0.1:52510
+Aug 25 23:31 : client: [0] closed
+Aug 25 23:31 : client: [6] opened from 127.0.0.1:52516
+Aug 25 23:34 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 25 23:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:35 : config: option 'path' on line 395 was not recognized
+Aug 25 23:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:35 : client: [0] opened from 127.0.0.1:52734
+Aug 25 23:35 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:35 : client: [1] opened from 127.0.0.1:52738
+Aug 25 23:35 : exception: Failed to open audio output
+Aug 25 23:36 : exception: Failed to open audio output
+Aug 25 23:36 : exception: All audio outputs are disabled
+Aug 25 23:36 : exception: All audio outputs are disabled
+Aug 25 23:36 : exception: Failed to open audio output
+Aug 25 23:36 : client: [1] closed
+Aug 25 23:36 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 25 23:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:37 : config: option 'path' on line 395 was not recognized
+Aug 25 23:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:37 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:37 : client: [0] opened from 127.0.0.1:39814
+Aug 25 23:37 : client: [1] opened from 127.0.0.1:39820
+Aug 25 23:37 : exception: Failed to open audio output
+Aug 25 23:37 : exception: Failed to open audio output
+Aug 25 23:38 : exception: Failed to open audio output
+Aug 25 23:38 : client: [1] closed
+Aug 25 23:38 : client: [2] opened from 127.0.0.1:39866
+Aug 25 23:38 : exception: Failed to open audio output
+Aug 25 23:38 : exception: Failed to open audio output
+Aug 25 23:38 : exception: Failed to open audio output
+Aug 25 23:39 : exception: Failed to open audio output
+Aug 25 23:39 : client: [2] closed
+Aug 25 23:41 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 25 23:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:45 : config: option 'device' on line 19 was not recognized
+Aug 25 23:45 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:45 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 25 23:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:46 : config: option 'device' on line 19 was not recognized
+Aug 25 23:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:46 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:47 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 25 23:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:47 : config: option 'device' on line 19 was not recognized
+Aug 25 23:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:47 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 25 23:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 23:48 : player: played "MUMMY NU PASAND Full Video _ Jai Mummy Di l Sunny S, Sonnalli S lJaani, Sunanda S, Tanishk B, Sukh-E-9Pr6LwQkrQI.mp3"
+Aug 25 23:57 : player: played "'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3"
+Aug 26 00:08 : update: removing 'Aaj Ki Party' FULL VIDEO Song - Mika Singh _ Salman Khan, Kareena Kapoor _ Bajrangi Bhaijaan-x4UjdNUjwoQ.mp3
+Aug 26 00:08 : update: added /Aaj Ki Party.mp3
+Aug 26 00:39 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 26 01:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 01:07 : config: option 'device' on line 19 was not recognized
+Aug 26 01:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 01:07 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 26 01:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 01:09 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 26 01:12 : player: played "Aashiq Banaya Aapne Full Video _ Hate Story IV _ Urvashi Rautela _ Himesh Reshammiya Neha Kakkar-3fvTwYMmy5Y.mp3"
+Aug 26 01:16 : player: played "Blush - Bella _ Prod By Jack Love-VPp2EtPsbr0.mp3"
+Aug 26 11:44 : player: played "Blush - Bella _ Prod By Jack Love-VPp2EtPsbr0.mp3"
+Aug 26 11:48 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 26 11:51 : player: played "Blush - Bella _ Prod By Jack Love-VPp2EtPsbr0.mp3"
+Aug 26 11:55 : player: played "Daaru Party (Full Song) _ Millind Gaba _ Latest Punjabi Songs 2015 _ Speed Records-Wr2NN4VQ1nI.mp3"
+Aug 26 12:03 : player: played "Blush - Bella _ Prod By Jack Love-VPp2EtPsbr0.mp3"
+Aug 26 14:32 : player: played "Ellie Goulding - Love Me Like You Do (Official Video)-AJtDXIazrMo.mp3"
+Aug 26 19:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 19:03 : config: option 'device' on line 19 was not recognized
+Aug 26 19:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 19:03 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 26 19:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 23:05 : update: added /Garmi.mp3
+Aug 26 23:07 : update: added /Aankh Marey.mp3
+Aug 26 23:09 : update: added /Sandese Aate Hai-Ke Ghar Kab Aaoge.mp3
+Aug 26 23:45 : update: added /despacito.mp3
+Aug 26 23:45 : update: added /closer.mp3
+Aug 26 23:45 : update: added /filhal.mp3
+Aug 26 23:46 : update: added /main rang sharbaton ka.mp3
+Aug 26 23:46 : update: added /banjaara.mp3
+Aug 26 23:47 : update: added /zaroorat.mp3
+Aug 26 23:47 : update: added /khair mangdi.mp3
+Aug 26 23:47 : update: added /cham cham.mp3
+Aug 26 23:48 : update: added /tu hi haheeqat.mp3
+Aug 26 23:48 : update: added /maahi.mp3
+Aug 26 23:55 : update: added /the wakhra song.mp3
+Aug 26 23:55 : update: added /aazadi.mp3
+Aug 26 23:55 : update: added /o saki saki.mp3
+Aug 26 23:56 : update: added /dekhte dekhte.mp3
+Aug 26 23:56 : update: added /tareefan.mp3
+Aug 26 23:56 : update: added /high rated gabru.mp3
+Aug 26 23:57 : update: added /proper patola.mp3
+Aug 26 23:57 : update: added /dheere dheere.mp3
+Aug 26 23:58 : update: added /love dose.mp3
+Aug 26 23:58 : update: added /urvashi.mp3
+Aug 26 23:58 : update: added /blue eyes.mp3
+Aug 26 23:59 : update: added /call aundi.mp3
+Aug 27 00:03 : player: played "call aundi.mp3"
+Aug 29 16:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 16:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 16:45 : config: option 'device' on line 19 was not recognized
+Aug 29 16:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 16:45 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 29 16:54 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Aug 29 17:34 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 29 19:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 19:17 : config: option 'device' on line 19 was not recognized
+Aug 29 19:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 19:17 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 29 23:49 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 30 01:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 01:05 : config: option 'device' on line 19 was not recognized
+Aug 30 01:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 01:05 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 30 01:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 01:09 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 30 01:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 01:10 : config: option 'device' on line 19 was not recognized
+Aug 30 01:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 01:10 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 30 01:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 15:44 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 30 17:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 17:55 : config: option 'device' on line 19 was not recognized
+Aug 30 17:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 17:55 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 31 17:18 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 31 17:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 17:19 : config: option 'device' on line 19 was not recognized
+Aug 31 17:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 17:19 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 31 17:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 19:18 : player: played "Dil Mein Chhupa Loonga Lyrical Video _ Wajah Tum Ho _ Armaan Malik & Tulsi Kumar _ Meet Bros-qUvPzjSWMSM.mp3"
+Aug 31 19:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 19:20 : config: option 'device' on line 19 was not recognized
+Aug 31 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 19:20 : avahi: Service 'Music Player @ hp' successfully established.
+Aug 31 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:00 : update: added /Gumshuda.mp3
+Aug 31 21:00 : player: played "Blush - Bella _ Prod By Jack Love-VPp2EtPsbr0.mp3"
+Aug 31 21:01 : update: added /hustle gumshuda.mp3
+Aug 31 21:04 : update: added /despacito justine.mp3
+Aug 31 21:04 : player: played "Gumshuda.mp3"
+Aug 31 21:06 : update: added /sorry justine.mp3
+Aug 31 21:06 : update: added /on and on.mp3
+Sep 02 11:53 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 02 11:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 11:53 : config: option 'device' on line 19 was not recognized
+Sep 02 11:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 11:53 : avahi: Service 'Music Player @ hp' successfully established.
+Sep 02 11:58 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 02 11:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 11:59 : config: option 'device' on line 19 was not recognized
+Sep 02 11:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 11:59 : avahi: Service 'Music Player @ hp' successfully established.
+Sep 02 11:59 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 02 12:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:00 : config: option 'device' on line 19 was not recognized
+Sep 02 12:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:00 : avahi: Service 'Music Player @ hp' successfully established.
+Sep 02 12:04 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 02 12:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:05 : config: option 'device' on line 19 was not recognized
+Sep 02 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:05 : avahi: Service 'Music Player @ hp' successfully established.
+Sep 02 12:05 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 02 12:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:06 : config: option 'device' on line 19 was not recognized
+Sep 02 12:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:06 : avahi: Service 'Music Player @ hp' successfully established.
+Sep 02 12:07 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 02 12:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:09 : config: option 'device' on line 19 was not recognized
+Sep 02 12:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 12:09 : avahi: Service 'Music Player @ hp' successfully established.
+Sep 02 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 18:41 : player: played "King ft. Nateboi - Outta My Mind (Lyrical) _ Mashhoor Chapter 1 _ Latest Songs 2019-DqItR8gPpe0.mp3"
+Sep 03 07:54 : player: played "Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3"
+Sep 03 12:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 12:50 : config: option 'device' on line 19 was not recognized
+Sep 03 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 12:50 : avahi: Service 'Music Player @ hp' successfully established.
+Oct 24 19:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:09 : exception: Failed to decode /home/ryuke/Music/Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3; Failed to open '/home/ryuke/Music/Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3': No such file or directory
+Oct 24 19:09 : player: played "Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3"
+Oct 24 19:09 : config: option 'device' on line 19 was not recognized
+Oct 24 19:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:09 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:09 : avahi: Service 'Music Player @ manjaro' successfully established.
+Oct 24 19:14 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:14 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:14 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:15 : exception: Failed to open audio output
+Oct 24 19:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:15 : exception: Failed to open audio output
+Oct 24 19:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:18 : player: played "'Mere Rashke Qamar' Song With Lyrics _ Baadshaho _ Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan-q8gilwzNQEA.mp3"
+Oct 24 19:18 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:19 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:19 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 24 19:51 : player: played "Numb (Official Video) - Linkin Park-kXYiU_JCYtU.mp3"
+Oct 24 19:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:53 : config: option 'device' on line 19 was not recognized
+Oct 24 19:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:53 : avahi: Service 'Music Player @ manjaro' successfully established.
+Oct 24 19:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:56 : player: played "Pitbull - Rain Over Me ft. Marc Anthony-SmM0653YvXU.mp3"
+Oct 24 20:00 : client: [1] command "close" during idle
+Oct 24 20:01 : player: played "BANGGTOWN _ Kuwar Virk Ft. Ikka_ Latest Punjabi Songs 2018_ Eagle Music-V4SLWosfNFk.mp3"
+Oct 24 20:05 : player: played "Daaru Party (Full Song) _ Millind Gaba _ Latest Punjabi Songs 2015 _ Speed Records-Wr2NN4VQ1nI.mp3"
+Oct 24 20:08 : player: played "Tu Cheej Lajwaab _ तू चीज लाजबाब _ Pardeep Boora & Sapna Chaudhary _  Haryanvi Video Song-Vi7-HjOtyKA.mp3"
+Oct 24 20:10 : player: played "Masalei Ni feat. BTS _ Boy With Luv-YaA-Gn9D4vk.mp3"
+Oct 24 20:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:13 : config: option 'device' on line 19 was not recognized
+Oct 24 20:13 : avahi: Service 'Music Player @ manjaro' successfully established.
+Oct 24 20:13 : player: played "Masalei Ni feat. BTS _ Boy With Luv-YaA-Gn9D4vk.mp3"
+Oct 24 20:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:14 : config: option 'device' on line 19 was not recognized
+Oct 24 20:14 : avahi: Service 'Music Player @ manjaro' successfully established.
+Oct 24 20:14 : client: [1] command "close" during idle
+Oct 24 20:14 : player: played "Masalei Ni feat. BTS _ Boy With Luv-YaA-Gn9D4vk.mp3"
+Oct 24 20:18 : player: played "Nicki Minaj - Super Bass-4JipHEz53sU.mp3"
+Oct 24 20:24 : player: played "despacito justine.mp3"
+Oct 24 20:25 : player: played "DILBAR Full Audio _ Satyameva Jayate _ John Abraham _ Nora _ Tanishk B, Neha Kakkar, Dhvani , Ikka-jTZnWupUS50.mp3"
